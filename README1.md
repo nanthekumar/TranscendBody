@@ -81,5 +81,7 @@ It represents how technology and human change can work together.
 👤 Author
 
 Nanthekumar (Nantha)
+
 AI CXO & MarTech Strategist
+
 Builder of AI agentic systems, CX automation engines & full-stack digital products
