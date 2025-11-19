@@ -3,7 +3,6 @@
 A full-stack AI application blending personal transformation, behavioural design and modern engineering.
 
 🌟 Overview
-![Uploading create-user.png…]()
 
 TranscendBody is an AI-powered fitness and transformation platform designed to help users stay consistent through personalised plans, behaviour tracking and intelligent insights.
 The project merges my 35kg personal transformation with hands-on engineering, demonstrating my ability to design and build practical AI systems that support real-world change.
